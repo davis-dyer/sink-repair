@@ -1,0 +1,19 @@
+.serviceForm {
+    margin: 1rem;
+}
+
+.label {
+    display: block;
+}
+
+.input {
+    display: block;
+    margin-bottom: 1rem;
+    width: 70%
+}
+
+.button {
+    border: 0.5px solid black;
+    color: aliceblue;
+    background-color: navy;
+}
